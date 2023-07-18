@@ -1,0 +1,8 @@
+/*
+Agregar dentro de etiqueta "application" de AndroidManifest.xml
+ <application>
+*/
+  
+   <uses-feature android:glEsVersion="0x00020000" android:required="true" />
+
+   // </application>
